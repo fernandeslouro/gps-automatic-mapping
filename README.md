@@ -1,4 +1,4 @@
-# gps-average-path
+# gps-automatic-mapping
 
 This repository contains code capable of returning an average path from several raw nmea files. The input files can have different sampling frequencies.
 
